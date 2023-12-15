@@ -1,5 +1,9 @@
-## Canva Design
-Thanks for downloading this theme!
+Thanks for visiting my GitHub account!
+##
+![canva](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnN19E18xtM23VtnQAxytEgzdujZ3XKCtnFrfzdXp-tBn1TKKJ)
+**Canva** is an online graphic design platform that is used to create social media graphics and presentations. The company has announced it intends to compete with Google and Microsoft in the office software category with website and whiteboard products.
+
+[See More](https://www.canva.com/)
 
 ## Live Visit
 [Click For Live Visit](https://www.youtube.com/@learnwithfair)
