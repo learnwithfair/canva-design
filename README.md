@@ -8,7 +8,7 @@ Thanks for visiting my GitHub account!
 ## Live Visit
 Click For Live Visit
 - **Software    :** https://www.canva.com/design/DAFmv0iGraQ/qNTmcHPYsEQQfF2-tjPDgg/edit
-- **Cover       :** https://www.canva.com/design/DAFlzvpRrEQ/0cG4zOtHUQVcvGXZvYzLQA/edit
+- **HTML       :** https://www.canva.com/design/DAFlzvpRrEQ/0cG4zOtHUQVcvGXZvYzLQA/edit
 - **Description :** https://www.canva.com/design/DAF2OmH4ei4/jCWYYllsbgsAnprByVExUg/edit
   
 ## Source Code (Download)
