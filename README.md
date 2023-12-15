@@ -1,28 +1,23 @@
+## Canva Design
 Thanks for downloading this theme!
 
 ## Live Visit
-[Click For Live Visit](https://learnwithfair.github.io/html-template-ecommerce-electro-master/)
+[Click For Live Visit](https://www.youtube.com/@learnwithfair)
 
-## For More Website Demo
-Visit -> https://themewagon.com/theme-tag/restaurant-template/
+## Source Code (Download)
+[Click Here](https://mega.nz/folder/8DEAxJgC#OY6zPDAaqDQEis7i-6X5sQ)
 
-## Project Screenshot
+## Required Link
+Visit -> https://www.canva.com/
 
-|   |   |   |
-|:---:|:---:|:---:|
-|Home|Product|Store|
-|![Index](https://github.com/learnwithfair/html-template-ecommerce-electro-master/assets/103452668/dbca547c-a2fa-4c83-8654-f0f5244950aa)|![Product](https://github.com/learnwithfair/html-template-ecommerce-electro-master/assets/103452668/0de8d398-c320-4efc-84d9-ac58587705b5)| ![Store](https://github.com/learnwithfair/html-template-ecommerce-electro-master/assets/103452668/80fd582f-73e3-486d-8522-6593560789b7)|
-|Checkout|Regular|
-|![Checkout](https://github.com/learnwithfair/html-template-ecommerce-electro-master/assets/103452668/8cb9351f-0b0e-4120-a58e-f42496e1ba90)| ![Regular](https://github.com/learnwithfair/html-template-ecommerce-electro-master/assets/103452668/90dbe504-5ee2-4e6b-9844-f8dcd3d1ebc6)|
-## Other Useful Links
+## Project Demo
 
-**ThemeWagon** is a great source for downloading free HTML templates built with the latest technology.
-
-To download free templates, follow this link: https://themewagon.com/theme_tag/free/
-
-Besides that, you can buy our premium templates to make your web development experience unforgettable.
-
-Visit the store from here: https://themewagon.com/theme-categories/premium-templates/
+|   |   |
+|:---:|:---:|
+|Revo Uninstaller-1|Winrar|
+|![Uninstaller-1](https://github.com/learnwithfair/canva-design/blob/main/Thumbnail/How%20to%20download%20Revo%20uninstaller%20pro%20(2).png)|![Winrar](https://github.com/learnwithfair/canva-design/blob/main/Thumbnail/How%20to%20Download%20and%20Install%20Winrar.png)|
+|IDM|Uninstaller-2|
+|![idm](https://github.com/learnwithfair/canva-design/blob/main/Thumbnail/IDM.png)|![Revo Uninstaller-2](https://github.com/learnwithfair/canva-design/blob/main/Thumbnail/%E0%A6%96%E0%A7%81%E0%A6%AC%20%E0%A6%B8%E0%A6%B9%E0%A6%9C%E0%A7%87%E0%A6%87%20(2).png) |
 
 
 
